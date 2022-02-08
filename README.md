@@ -12,7 +12,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/rafaeloliveiramartins)](https://t.me/rafaeloliveiramartins)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaeloliveiramartins1992@gmail.com)](mailto:rafaeloliveiramartins@gmail.com)
 
-</div>
+</div> 
 
 ## Hi there 👋
 
