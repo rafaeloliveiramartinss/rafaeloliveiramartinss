@@ -18,7 +18,7 @@
 
 My name is Rafael Oliveira Martins, I am an Web Developer completely passionate about Technology, App Development, Innovation and create things with 3D printer.
 
-- :office_worker: I’m currently working as designer autonomy.
+- :office_worker: I’m currently working as a trainee at online applications.
 - 🌱 I’m currently learning Swift.
 - 💬 Ask me about 3D printing, visual effects or any VFX related stuff.
 - :blue_heart: Techs: 3D printer, Embedded system!
