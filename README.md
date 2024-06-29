@@ -18,16 +18,16 @@
 
 ## Hi there 👋
 
-My name is Rafael Oliveira Martins, I am a Web Developer completely passionate about Technology, App Development, Innovation, and creating things with a 3D printer.
+My name is Rafael Oliveira Martins, I'm a Python Developer passionate about Technology, Innovation, and creating things with a 3D printer.
 
-- :office_worker: I’m currently working as a trainee at **Online Applications**.
-- 🌱 I’m currently learning C#.
-- 💬 Ask me about 3D printing, visual effects, or any VFX related stuff.
-- :blue_heart: Techs: 3D printer, Embedded system!
-- :books: Favorite book: *Fight Club* by Chuck Palahniuk
+- :office_worker: Currently, I'm working as a trainee at **Datametria.io**.
+- 🌱 I’m currently learning Python.
+- 💬 Ask me about 3D printing, things from the Maker universe, or anything else related.
+- :blue_heart: Techs: 3D Printing, Embedded Systems!
+- :books: Favorite book: *The Road Ahead* by Bill Gates
 - 📫 How to reach me: [Rafael Oliveira Martins - WhatsApp](https://api.whatsapp.com/message/DQDGQ4TVXEGWK1?autoload=1&app_absent=0)
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: I like to build things with electronic scrap.
+- ⚡ Fun fact: I enjoy exploring complex environments through programming.
 
 ##
 
