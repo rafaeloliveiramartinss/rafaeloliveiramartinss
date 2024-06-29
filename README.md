@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div>
   <h1 align="center"> Rafael Oliveira Martins :man_technologist: </i></a> 😃️</h1>
 
@@ -63,3 +64,21 @@ My name is Rafael Oliveira Martins, I am an Web Developer completely passionate 
   ![Snake animation](https://github.com/rafaeloliveiramartins/rafaeloliveiramartins/blob/output/github-contribution-grid-snake.svg)
    
 </div>
+=======
+## Hi there 👋
+
+<!--
+**rafaeloliveiramartinss/rafaeloliveiramartinss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+>>>>>>> origin/main
