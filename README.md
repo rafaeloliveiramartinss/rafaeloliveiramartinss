@@ -44,9 +44,9 @@ My name is Rafael Oliveira Martins, I'm a Python Developer passionate about Tech
 <code><img height="20" src="https://user-images.githubusercontent.com/58194291/152402604-b5cb8547-c6e3-4612-bee0-ed8595b95624.png"></code>
 
   <img align="center"> 
-  <a href="https://github.com/rafaeloliveiramartins">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaeloliveiramartins&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeloliveiramartins&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/rafaeloliveiramartinss">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaeloliveiramartinss&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=191919">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaeloliveiramartinss&layout=compact&langs_count=7&theme=dark"/>
 
 ##
 
