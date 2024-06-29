@@ -62,6 +62,6 @@ My name is Rafael Oliveira Martins, I am a Web Developer completely passionate a
 
 <div align="center">
   
-  ![snake gif](https://github.com/rafaeloliveiramartinss/rafaeloliveiramartinss/blob/output/github-contribution-grid-snake.gif)
+  ![snake svg](https://github.com/rafaeloliveiramartinss/rafaeloliveiramartinss/blob/output/github-contribution-grid-snake.svg)
    
 </div>
